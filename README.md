@@ -13,6 +13,6 @@
  <li>
    Validation <br />
    To ensure that the web application worked correctly, it was tested with a test file.  The number of lines of code this test file had was already predetermined, so If the web application matched then it was working correctly. The results can be seen below.  The file on the left is a Java file called Test.java.  Remembering the criteria for what constitutes a line of code there are only 12 lines of code in this file.  On the right you will see the web application which has the same result, and thus validates this application.
-  
+  <img src="./img/clocvalidation.PNG" />
  </li>
 </ol>
